@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mohammed AZRI</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif">
