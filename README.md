@@ -1,70 +1,96 @@
-<!-- GitHub Profile README — Mohammed AZRI
-Repo name must match your GitHub username (public repo). -->
+<!-- Profile README for github.com/Mohammedazri -->
 
 <h1 align="center">Mohammed AZRI</h1>
 <p align="center">
-  Salesforce • CRM • Automation • Agentforce • Data Cloud<br/>
-  <b>Based in Paris, France</b> • Open to collaboration on Salesforce & AI/agentic projects
+  <b>Senior Salesforce Technical & Functional Consultant</b> • CRM • AI • Data<br/>
+  Associate Project Manager • 7x Salesforce Certified • Trailhead Ranger
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammed-azri-0a251b184/">LinkedIn</a> •
-  <a href="https://trailblazer.me/id/mohammedazri">Trailhead</a> •
-  <a href="https://x.com/mohammed_azri_">X</a>
+  📍 Geneva, Switzerland • Working with clients in France<br/>
+  ✉️ <a href="mailto:mohammed.azri.pro@gmail.com">mohammed.azri.pro@gmail.com</a> •
+  🔗 <a href="https://www.linkedin.com/in/mohammed-azri-0a251b184/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white" />
+  <img alt="Apex" src="https://img.shields.io/badge/Apex-0B5CAB?logo=salesforce&logoColor=white" />
+  <img alt="LWC" src="https://img.shields.io/badge/LWC-Lightning_Web_Components-0B5CAB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-000?logo=git&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-000?logo=jira&logoColor=white" />
+  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-000?logo=confluence&logoColor=white" />
 </p>
 
 ---
 
-## About
-I’m a Salesforce consultant/developer focused on building scalable CRM solutions and automation that improve service efficiency and data quality.
+## About me
+I build and deliver Salesforce solutions end-to-end: **requirements → architecture → development → UAT → deployment → documentation**.
+My focus is creating reliable automation, maintainable code, and measurable business outcomes.
 
-**Current focus**
-- Agentforce for Service (topics, actions, routing, conversation logging)
-- Data Cloud (data modeling, activation use cases, governance)
-
-> Replace this line with your exact LinkedIn headline:
-> **<Your exact LinkedIn headline here — e.g., “Salesforce Consultant | Service Cloud | Data Cloud | Agentforce | Apex | Flow”>**
+**Current role:** Sr Salesforce Technical & Functional Consultant @ Devoteam (Jan 2025 – Present)
 
 ---
 
-## What I do
-- **Service & Experience**: case management, knowledge grounding, customer journeys
-- **Automation**: Flow-first design, Apex when needed, robust error handling & monitoring
-- **Integration**: API-led patterns, data synchronization, event-driven thinking
-- **Data**: data modeling, quality controls, dedupe strategies, reporting-ready structures
+## What I deliver
+- **Custom Salesforce development:** Apex, SOQL, LWC, Aura, Visualforce (when needed)
+- **Automation & process:** Flow-first mindset + Apex for complex logic
+- **Integration:** REST/SOAP APIs, secure patterns, clean error handling
+- **Delivery governance:** Git-based CI/CD, UAT support, release readiness, documentation
+- **Ways of working:** Agile / Scrum
 
 ---
 
-## Highlights (Trailhead)
-- Earned **Agentforce for Service** learning achievements (Trailhead)  
-- Earned **Data Cloud for Commerce** learning achievements (Trailhead)
-
-(If you want, add your public Trailhead “badges/certifications” links here.)
-
----
-
-## Tech toolbox
-- **Salesforce**: Service Cloud, Experience Cloud, Data Cloud, Einstein/Agentforce basics
-- **Build**: Apex, SOQL, Flow, Validation Rules, Lightning (LWC fundamentals)
-- **Delivery**: Git, CI/CD mindset, release governance, testing strategies
+## Tech stack
+**Salesforce:** Apex • SOQL • LWC • Aura • Flows • REST API  
+**Tools:** Git/GitLab • Jira • Confluence  
+**Also:** Java/JEE • JavaScript • C/C++ • MATLAB (image processing background)
 
 ---
 
-## Featured repositories (pin these on your profile)
-- **`agentforce-notes`** — exam notes, patterns, prompt/agent design checklists
-- **`salesforce-automation-patterns`** — Flow patterns, naming conventions, reusable blueprints
-- **`integration-playbook`** — API templates, mapping docs, error handling patterns
-- **`data-architecture-notes`** — LDV, archiving, governance, Data Cloud modeling
+## Experience (summary)
+- **Devoteam** — Sr Salesforce Technical & Functional Consultant (2025–Present)
+- **Cognizant** — Salesforce Technical & Functional Consultant / Associate PM (2022–2025)
+  - Client delivery, CI/CD with GitLab, UAT, technical documentation
+- **ProTrackSports** — Java/JEE Developer (2022)
+- **IFSTTAR** — MATLAB/C++ (Image Processing) (2021)
 
 ---
 
-## How to reach me
-- LinkedIn: https://linkedin.com/in/mohammed-azri-0a251b184/
-- Trailhead: https://trailblazer.me/id/mohammedazri
-- X: https://x.com/mohammed_azri_
+## Certifications & learning
+- **7x Salesforce Certified**
+- Trailhead **Ranger**
+- Superbadges (incl. Security Governance Specialist / User Authentication Settings)
+
+> Optional: add a “Certifications” section with verification links/screenshots.
 
 ---
 
-### Notes for future improvements
-- Add 2–3 quantified wins (latency reduced, manual work eliminated, adoption increased).
-- Keep this README scannable: 1 screen is ideal.
+## Featured projects
+Pin 3–6 repos and list them here with outcomes.
+
+- **[project-name](https://github.com/Mohammedazri/project-name)** — one-line value proposition  
+  **Impact:** metric/result • **Stack:** Apex/LWC/Flow • **Notes:** key highlight
+
+- **[project-name](https://github.com/Mohammedazri/project-name)** — one-line value proposition  
+  **Impact:** metric/result • **Stack:** REST/SOAP • **Notes:** key highlight
+
+---
+
+## Languages
+- French: Native/Bilingual
+- Arabic: Native/Bilingual
+- English: Professional working
+
+---
+
+## GitHub stats (optional)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammedazri&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedazri&layout=compact)
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/mohammed-azri-0a251b184/
+- Email: mohammed.azri.pro@gmail.com
