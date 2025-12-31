@@ -1,84 +1,70 @@
-<!--
-PROFILE README TEMPLATE
-1) Create a PUBLIC repo named exactly: YOUR_USERNAME
-2) Add this as README.md in the repo root
--->
+<!-- GitHub Profile README — Mohammed AZRI
+Repo name must match your GitHub username (public repo). -->
 
-# Hi, I’m <YOUR_NAME> 👋
-**<ROLE / TITLE>** | <DOMAIN (e.g., Backend • Data • Cloud • Salesforce • AI)> | <CITY, COUNTRY>
+<h1 align="center">Mohammed AZRI</h1>
+<p align="center">
+  Salesforce • CRM • Automation • Agentforce • Data Cloud<br/>
+  <b>Based in Paris, France</b> • Open to collaboration on Salesforce & AI/agentic projects
+</p>
 
-I build <what you build> with a focus on <your differentiator: performance / UX / security / data quality / automation>.
-
-- Currently: <project / learning focus>
-- Open to: <roles / freelance / collaborations>
-- Ask me about: <3–5 topics>
-- Reach me: <email> | <LinkedIn> | <website/portfolio>
-
----
-
-## What I’m working on
-- **<Project / Product>** — <one-line value proposition>  
-  Tech: <stack> • Impact: <measurable result if possible>
-
-- **<Project / Product>** — <one-line value proposition>  
-  Tech: <stack> • Impact: <measurable result>
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-azri-0a251b184/">LinkedIn</a> •
+  <a href="https://trailblazer.me/id/mohammedazri">Trailhead</a> •
+  <a href="https://x.com/mohammed_azri_">X</a>
+</p>
 
 ---
 
-## Featured projects
-Pin 3–6 repos on your profile, and also list them here with outcomes.
+## About
+I’m a Salesforce consultant/developer focused on building scalable CRM solutions and automation that improve service efficiency and data quality.
 
-- **[<Project Name>](<repo link>)** — <what it does>  
-  **Impact:** <metric/result> • **Stack:** <tech> • **Highlights:** <1–2 bullets>
-- **[<Project Name>](<repo link>)** — <what it does>  
-  **Impact:** <metric/result> • **Stack:** <tech>
+**Current focus**
+- Agentforce for Service (topics, actions, routing, conversation logging)
+- Data Cloud (data modeling, activation use cases, governance)
 
----
-
-## Tech stack
-<!-- Option A: clean bullets -->
-- **Languages:** <...>
-- **Frameworks:** <...>
-- **Cloud/DevOps:** <...>
-- **Data:** <...>
-- **Tools:** <...>
-
-<!-- Option B: badges (replace with your stack) -->
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs&logoColor=white)
+> Replace this line with your exact LinkedIn headline:
+> **<Your exact LinkedIn headline here — e.g., “Salesforce Consultant | Service Cloud | Data Cloud | Agentforce | Apex | Flow”>**
 
 ---
 
-## Proof of work
-- ✅ <Certification / achievement> — <year>
-- ✅ <Case study / delivery> — <scope + result>
-- ✅ <Open-source / community> — <what you contributed>
+## What I do
+- **Service & Experience**: case management, knowledge grounding, customer journeys
+- **Automation**: Flow-first design, Apex when needed, robust error handling & monitoring
+- **Integration**: API-led patterns, data synchronization, event-driven thinking
+- **Data**: data modeling, quality controls, dedupe strategies, reporting-ready structures
 
 ---
 
-## Writing / Talks (optional)
-- <Article/Talk Title> — <link>
-- <Article/Talk Title> — <link>
+## Highlights (Trailhead)
+- Earned **Agentforce for Service** learning achievements (Trailhead)  
+- Earned **Data Cloud for Commerce** learning achievements (Trailhead)
+
+(If you want, add your public Trailhead “badges/certifications” links here.)
 
 ---
 
-## GitHub stats (optional)
-<!-- These are third-party widgets; use only if you want them -->
-![Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact)
+## Tech toolbox
+- **Salesforce**: Service Cloud, Experience Cloud, Data Cloud, Einstein/Agentforce basics
+- **Build**: Apex, SOQL, Flow, Validation Rules, Lightning (LWC fundamentals)
+- **Delivery**: Git, CI/CD mindset, release governance, testing strategies
 
 ---
 
-## Contact
-- LinkedIn: <link>
-- Email: <email>
-- Portfolio: <link>
+## Featured repositories (pin these on your profile)
+- **`agentforce-notes`** — exam notes, patterns, prompt/agent design checklists
+- **`salesforce-automation-patterns`** — Flow patterns, naming conventions, reusable blueprints
+- **`integration-playbook`** — API templates, mapping docs, error handling patterns
+- **`data-architecture-notes`** — LDV, archiving, governance, Data Cloud modeling
 
-<!--
-Tips:
-- Keep it skimmable: 1 screen = ideal.
-- Lead with outcomes (metrics) instead of responsibilities.
-- Refresh “What I’m working on” every 4–8 weeks.
--->
+---
+
+## How to reach me
+- LinkedIn: https://linkedin.com/in/mohammed-azri-0a251b184/
+- Trailhead: https://trailblazer.me/id/mohammedazri
+- X: https://x.com/mohammed_azri_
+
+---
+
+### Notes for future improvements
+- Add 2–3 quantified wins (latency reduced, manual work eliminated, adoption increased).
+- Keep this README scannable: 1 screen is ideal.
