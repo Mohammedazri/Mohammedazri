@@ -14,13 +14,7 @@ Senior Salesforce Technical & Functional Consultant • CRM • AI • Data
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohammedazri&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazri&layout=compact&card_width=320&langs_count=10&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=false"
-    height="150"
-    alt="Top Languages"
-  />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazri)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ✍️ Random Dev Quote
