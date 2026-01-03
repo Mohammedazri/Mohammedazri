@@ -2,6 +2,7 @@
 Senior Salesforce Technical & Functional Consultant • CRM • AI • Data
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-azri-%e2%98%81%ef%b8%8f-0a251b184/?skipredirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammed.azri.pro@gmail.com) 
 
